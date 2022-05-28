@@ -1,0 +1,30 @@
+{
+  "name": "material-ui-nextjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.11.3",
+    "@mui/icons-material": "5.8.0",
+    "@mui/material": "5.8.1",
+    "babel-plugin-transform-define": "2.0.1",
+    "clsx": "latest",
+    "next": "12.1.6",
+    "prop-types": "latest",
+    "react": "17.0.2",
+    "react-dom": "latest",
+    "styled-components": "5.3.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "ISC",
+  "keywords": [
+    "material-ui",
+    "nextjs"
+  ],
+  "description": "Next.js + Material-UI example."
+}
